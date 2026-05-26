@@ -18,7 +18,7 @@ const Footer = () => {
                             Empowering writers to share their thoughts with a global audience. Simple, fast, and free.
                         </p>
                         <div className="flex space-x-5 mt-6">
-                            <a href="" className="hover:text-cyan-400 transition-colors"><Twitter size={20} /></a>
+                            <a href="https://x.com/Muhamma8129943" className="hover:text-cyan-400 transition-colors"><Twitter size={20} /></a>
                             <a href="https://github.com/MuhammadAliKhan5" className="hover:text-cyan-400 transition-colors"><Github size={20} /></a>
                             <a href="https://www.linkedin.com/in/muhammad-ali-khan-245b442bb/" className="hover:text-cyan-400 transition-colors"><Linkedin size={20} /></a>
                             <a href="https://www.instagram.com/" className="hover:text-cyan-400 transition-colors"><Instagram size={20} /></a>
